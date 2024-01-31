@@ -1,5 +1,5 @@
 # RetroDev
-The RetroCade project provides open source emulated platform libraries.
+The RetroDev project provides open source emulated platform libraries.
 
 ## Goals
 The goal for RetroDev is to create and maintain emulation libraries (known as platform libraries) for various gaming platforms. 
