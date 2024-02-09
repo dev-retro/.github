@@ -1,8 +1,8 @@
-# RetroDev
-The RetroDev project provides open source emulated platform libraries.
+# Retro
+The Retro project provides open source emulated platform libraries.
 
 ## Goals
-The goal for RetroDev is to create and maintain emulation libraries (known as platform libraries) for various gaming platforms. 
+The goal for Retro is to create and maintain emulation libraries (known as platform libraries) for various gaming platforms. 
 
 Where this differs to standard emulators is that these are libraries and not full applications. What we will provide is a fast cross platform library that can be implemented into a multitude of applicatons and run on various platforms.
 
